@@ -1,6 +1,6 @@
 # XiaoyaoClaw · 产品介绍
 
-![XiaoyaoClaw Logo](产品文档/logo/logo.png)
+![XiaoyaoClaw](运营文档/产品宣传图.png)
 
 ---
 
