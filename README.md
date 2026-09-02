@@ -1,5 +1,7 @@
 # XiaoyaoClaw · 产品介绍
 
+**简体中文** | [English](README_EN.md)
+
 ![XiaoyaoClaw](运营文档/产品宣传图.png)
 
 ---
