@@ -128,8 +128,8 @@
 
 所有平台的安装包统一在百度网盘分发：
 
-- **链接**：<https://pan.baidu.com/s/1lDaWjMCRXIT-Sqx9UFjerg?pwd=37ed>
-- **提取码**：`37ed`
+- **链接**：<https://pan.baidu.com/s/1H3PrTdp0ShBe7upnAO12mQ>
+- **提取码**：`7z69`
 
 ### 怎么选安装包
 

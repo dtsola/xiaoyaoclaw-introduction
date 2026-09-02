@@ -128,8 +128,8 @@ The 3 steps above only demonstrate the **WeChat** path. XiaoyaoClaw + the Shrimp
 
 Installers for all platforms are distributed via Baidu Netdisk:
 
-- **Link**: <https://pan.baidu.com/s/1lDaWjMCRXIT-Sqx9UFjerg?pwd=37ed>
-- **Code**: `37ed`
+- **Link**: <https://pan.baidu.com/s/1H3PrTdp0ShBe7upnAO12mQ>
+- **Code**: `7z69`
 
 ### Choosing the Right Installer
 
